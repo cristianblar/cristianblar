@@ -8,13 +8,14 @@
   <a href="https://ubuntu.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=ubuntu&label=OS&message=Ubuntu" /></a>
   <br />
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=visual-studio-code&label=Editor&message=VSCode" /></a>
+  <a href="https://www.jetbrains.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=jetbrains&label=Editor&message=JetBrains IDEs" /></a>
   <a href="https://jupyter.org/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=jupyter&label=Editor&message=Jupyter" /></a>
   <br />
   <br />
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=typescript&label=Language&message=TypeScript" /></a>
   <a href="https://www.javascript.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=javascript&label=Language&message=JavaScript" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=python&label=Language&message=Python" /></a>
-  <a href="https://cplusplus.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=c%2B%2B&label=Language&message=C%2B%2B" /></a>
+  <a href="https://golang.org/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=go&label=Language&message=Golang" /></a>
   <br />
   <br />
   <a href="https://www.w3.org/html/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=html5&label=Frontend&message=HTML5" /></a>
@@ -32,6 +33,9 @@
   <br />
   <a href="https://nodejs.org/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=node-dot-js&label=Backend&message=Node.js" /></a>
   <a href="https://expressjs.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=express&label=Backend&message=Express" /></a>
+  <a href="https://www.fastify.io/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=fastify&label=Backend&message=Fastify" /></a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=flask&label=Backend&message=Flask" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=django&label=Backend&message=Django" /></a>
   <a href="https://graphql.org/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=graphql&label=Backend&message=GraphQL" /></a>
   <a href="https://www.apollographql.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=apollo-graphql&label=Backend&message=Apollo" /></a>
   <br />
@@ -39,6 +43,8 @@
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=mysql&label=Database&message=MySQL" /></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=postgresql&label=Database&message=PostgreSQL" /></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=mongodb&label=Database&message=MongoDB" /></a>
+  <a href="https://redis.io/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=redis&label=Database&message=Redis" /></a>
+  <a href="https://dgraph.io/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=dgraph&label=Database&message=Dgraph" /></a>
   <br />
   <br />
   <a href="https://github.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=github&label=Tools&message=GitHub" /></a>
@@ -48,6 +54,7 @@
   <a href="https://vercel.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=vercel&label=Tools&message=Vercel" /></a>
   <a href="https://www.heroku.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=heroku&label=Tools&message=Heroku" /></a>
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=firebase&label=Tools&message=Firebase" /></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/static/v1?style=plastic&labelColor=c7009b&color=61e043&logoColor=white&logo=google-cloud&label=Tools&message=GCP" /></a>
   <hr />
 </div>
 
@@ -62,24 +69,18 @@ I'm a Full Stack Web Developer (capable of developing a web app from data modeli
 ## 📊 GitHub Facts
 
 <div align="center">
-  <a href="https://github.com/cristianblar"><img src="https://github-readme-stats-cristianblar.vercel.app/api/top-langs?username=cristianblar&layout=compact&hide=html" /></a>
+  <a href="https://github.com/cristianblar"><img src="https://github-readme-stats-cristianblar.vercel.app/api/top-langs?username=cristianblar&layout=compact&hide=html,css&langs_count=6" /></a>
 </div>
 
 ### 🌟 Featured projects
 
 <div align="center">
+  <a href="https://github.com/cristianblar/restaurant-manager"><img src="https://github-readme-stats-cristianblar.vercel.app/api/pin/?username=cristianblar&repo=restaurant-manager" /></a>
+  <br />
   <a href="https://github.com/cristianblar/PokeAPP"><img src="https://github-readme-stats-cristianblar.vercel.app/api/pin/?username=cristianblar&repo=PokeAPP" /></a>
-  <br />
-  <a href="https://github.com/cristianblar/petgram_project"><img src="https://github-readme-stats-cristianblar.vercel.app/api/pin/?username=cristianblar&repo=petgram_project" /></a>
 </div>
 
-### 📌 What am I working on now?
-
-<div align="center">
-  <a href="https://github.com/cristianblar/game_store"><img src="https://github-readme-stats-cristianblar.vercel.app/api/pin/?username=cristianblar&repo=game_store" /></a>
-  <h4><strong>Best 120</strong>Videogames e-commerce</h4>
-  <br />
-</div>
+[//]: <> (### 📌 What am I working on now?)
 
 ## 🔗 Some links to check more of my work and get in touch!
 <div>
